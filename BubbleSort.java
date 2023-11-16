@@ -1,4 +1,4 @@
-package Java.Sort;
+package Sort;
 
 /**
  * bubbleSort
